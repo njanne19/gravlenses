@@ -9,4 +9,4 @@ This project is an example at implementing this lens equation and generating ima
 ![Unchanged image of the M51 spiral galaxy](./images/m51small.jpeg)
 
 *Generated GIF of the M51 spiral galaxy, simulating a gravitational lens passing across the screen*
-![Generated GIF of the M51 spiral galaxy, simulating a gravitational lens passing across the screen](./images/m51.gif)
+![Generated GIF of the M51 spiral galaxy, simulating a gravitational lens passing across the screen](https://github.com/njanne19/gravlenses/blob/main/images/m51lens.gif)
